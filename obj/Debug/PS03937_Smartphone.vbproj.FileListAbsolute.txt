@@ -1,0 +1,17 @@
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\bin\Debug\PS03937_Smartphone.exe.config
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.vbprojResolveAssemblyReference.cache
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.frmtrangchu.resources
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.Resources.resources
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.vbproj.GenerateResource.Cache
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.xml
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\bin\Debug\PS03937_Smartphone.exe
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\bin\Debug\PS03937_Smartphone.pdb
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\bin\Debug\PS03937_Smartphone.xml
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.exe
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.pdb
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.frmthongtinKH.resources
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.frmthongtinSP.resources
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.frmtimKH.resources
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.frmtimSP.resources
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.frmhoadon.resources
+E:\FPT\Summer 2016\INF205 - Dien toan dam may\PS03937_Smartphone\PS03937_Smartphone\PS03937_Smartphone\obj\Debug\PS03937_Smartphone.frmlogin.resources
